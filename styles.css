@@ -2,6 +2,7 @@
     position: relative; 
     text-align: center;
     color: white;
+    
 }
 
 header {
@@ -32,7 +33,7 @@ h1 {
     color: black;
 } 
 
-nav {
+#navigation {
     background-color: #fa8743;
     padding: 10px;
     align-items: center;
@@ -44,30 +45,60 @@ nav {
     flex-direction: row;
     flex-wrap: wrap;
     align-items: center;
+    overflow: auto;
+    
 
 
 }
 
-nav ul li{
-    display: inline;
-    margin: 0 150px;
-    padding: 10px;
 
-}
-
-
-
-nav ul li a{
+#navigation a{
     color: black;
     text-decoration: underline 1px;
     font-size: 16px;
     transition: color 0.1s ease-in-out;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    
+    width:25%;
+    float: center;
+    text-align: center;
 }
 
-nav ul li a:hover {
+#navigation a:hover{
+    transform: scale(1.03);
+    transition: transform 0.1s ease-in-out;
     color: whitesmoke;
+    text-decoration: underline 1px white;
+}
+
+
+
+@media screen and (max-width: 700px) {
+    #navigation a{
+        display: block;
+        float:none;
+        width:100%;
+        text-align: center;
+        
+    }
+
+    #navigation {
+        background-color: #fa8743;
+        padding: 10px;
+        align-items: center;
+        height: auto;
+        border-radius: 8px;
+        border: 2px solid black;
+        justify-content: space-around;
+        display: flex;
+        flex-direction: center;
+        flex-wrap: wrap;
+        align-items: center;
+        overflow: auto;
+        width: 40%;
+        margin: 0 auto;
+    }   
+
+
 }
 
 section {
@@ -140,7 +171,7 @@ section {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
     margin: 20px 200px 20px 200px;
     padding: 20px;
     height: auto;
@@ -148,13 +179,14 @@ section {
     border-radius: 12px;
     box-shadow: 0 2px 15px black;
     min-height:50vh;
-    justify-content: stretch;
+    
+    
     
 }
 
 .attraction-img {
     width: 100%;
-    max-width: 600px;
+    max-width: 800px;
     height: auto;
     aspect-ratio: 16 / 9;
     border-radius: 8px;
@@ -162,17 +194,32 @@ section {
     object-fit: cover;
     display: block;
     margin: 0 auto;
+    box-shadow: 0 2px 7px black;
+}
+
+.attraction-img:hover{
+    transform: scale(1.03);
+    transition: transform 0.2s ease-in-out;
 }
 
 .attraction-description {
-    font-size: 15px;
+    font-size: 19px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: black;
     text-align: center;
     margin-top: 20px;
     display: flex;
     justify-content: center;
-    text-shadow: lightgray 1px 1px 2px;
+    text-shadow: lightgray 1px 1px 1px;
+    padding-bottom: none;
+    margin-bottom: none;
+} 
+
+
+h2 {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    font-size: 29px;
 }
 
 .food-container{
@@ -199,6 +246,8 @@ section {
     display: flex;
     justify-content: center;
     text-shadow: lightgray 1px 1px 2px;
+    padding-left: 100px;
+    padding-right: 100px;
     
 }
 
@@ -231,5 +280,53 @@ section {
 }
 
 .grid-item {
+    display:flex;   
     flex: 1;
+    object-fit: cover;
+    border-radius: 8px;
+    border: 3px solid whitesmoke;    
+    background: rgba(255,255,255,0.85);
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    box-shadow: 0 2px 7px black;
+    position: relative;
+    width: 500px;
+    height: 600px;
+    box-sizing: border-box;
+    position: relative;
+    overflow: hidden; 
+}
+
+.grid-item:hover{
+    transform: scale(1.03);
+    transition: transform 0.2s ease-in-out;
+}
+
+.caption {
+    background-color: #fa8743;
+    color: whitesmoke   ;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: lightgray 1px solid;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    text-align: center;
+    padding-top: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    display: flex;
+    align-items: center;   
+    overflow: hidden; 
+    flex-direction: column;
+    width:30vh;
+    height:2vh;
+    transform: translateY(-70%);
+    z-index: 2;
+    font-size:17px;
+    flex-wrap: wrap
+
+
 }
