@@ -130,7 +130,7 @@ section {
     border : 3px solid black;
 }
 .outer-box {
-    background-color: whitesmoke;
+    background-color: #e0cdc1;
     min-height: 100vh;
     width: 100vw;
     display: flex;
