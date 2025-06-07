@@ -11,54 +11,54 @@ Deployed Application (optional): [Globetrotter Deployed Site](https://s-geleta.g
 #### CORE FEATURES
 
 - [X] **Home Page**
-  - [ ] A heading that mentions the destination.
-  - [ ] An introductory paragraph that welcomes visitors and dsescribes the purpose of the website. 
-  - [ ] An evocative image that represents the location.
-  - [ ] Content organized using Flexbox for a fluid layout.
+  - [X] A heading that mentions the destination.
+  - [X] An introductory paragraph that welcomes visitors and dsescribes the purpose of the website. 
+  - [X] An evocative image that represents the location.
+  - [X] Content organized using Flexbox for a fluid layout.
 
-- [ ] **Top Attractions Page**
-  - [ ] A separate page featuring a minimum of three attractions, each including a:
-    - [ ] Name
-    - [ ] Photo
-    - [ ] Brief description
-  - [ ] Each attraction is styled the same
+- [X] **Top Attractions Page**
+  - [X] A separate page featuring a minimum of three attractions, each including a:
+    - [X] Name
+    - [X] Photo
+    - [X] Brief description
+  - [X] Each attraction is styled the same
     - E.g. same font, image size, title size, etc. 
-  - [ ] Content arranged with Flexbox for consistency and responsiveness.
+  - [X] Content arranged with Flexbox for consistency and responsiveness.
 
 - [ ] **Guide Page (Choose One)**
-  - [ ] A separate page that is either a Food Guide, Accommodations Guide, or Upcoming Local Events guide.
-  - [ ] At least three entries thematic to your choice that provide a:
-    - [ ] Title
-    - [ ] Address
-    - [ ] Description
-    - [ ] Link with more information (e.g. link to a restaurant page)
-  - [ ] Each entry should be:
-    - [ ] Catered to a specific type of traveler (families, backpackers, etc.)
-    - [ ] Styled the same
+  - [X] A separate page that is either a Food Guide, Accommodations Guide, or Upcoming Local Events guide.
+  - [X] At least three entries thematic to your choice that provide a:
+    - [X] Title
+    - [X] Address
+    - [X] Description
+    - [X] Link with more information (e.g. link to a restaurant page)
+  - [X] Each entry should be:
+    - [X] Catered to a specific type of traveler (families, backpackers, etc.)
+    - [X] Styled the same
       - E.g. same font, title size, etc.
-  - [ ] Content arranged with Flexbox for consistency and responsiveness. 
+  - [X] Content arranged with Flexbox for consistency and responsiveness. 
 
 - [ ] **Photo Gallery**
-  - [ ] Separate page with at least five images related to the site's topic.
-  - [ ] Each image should include a caption describing the image.
-  - [ ] Presented in a responsive design using Flexbox.
+  - [X] Separate page with at least five images related to the site's topic.
+  - [X] Each image should include a caption describing the image.
+  - [X] Presented in a responsive design using Flexbox.
 
-- [ ] **Navigation Bar**
-  - [ ] Navigation bar with working links to each of the following pages:
-    - [ ] Home Page
-    - [ ] Top Attractions
-    - [ ] Photo Gallery
-    - [ ] Guide Page (Food Guide, Accomodations Guide, _or_ Upcoming Local Events Guide)
-  - [ ] Navigation bar can be accessed from each page of the website.
-  - [ ] Styled with Flexbox that adapts to different screen sizes.  
+- [X] **Navigation Bar**
+  - [X] Navigation bar with working links to each of the following pages:
+    - [X] Home Page
+    - [X] Top Attractions
+    - [X] Photo Gallery
+    - [X] Guide Page (Food Guide, Accomodations Guide, _or_ Upcoming Local Events Guide)
+  - [X] Navigation bar can be accessed from each page of the website.
+  - [X] Styled with Flexbox that adapts to different screen sizes.  
 
-- [ ] **Smartphone Friendly**
-  - [ ] A design that is fully functional and aesthetically pleasing on smartphones is achieved using media queries.
+- [X] **Smartphone Friendly**
+  - [X] A design that is fully functional and aesthetically pleasing on smartphones is achieved using media queries.
 
 ### Stretch Features
 
-- [ ] **Additional Media**
-  - [ ] Embed a piece of media that is not an image or text and relates to the travel content such as a:
+- [X] **Additional Media**
+  - [X] Embed a piece of media that is not an image or text and relates to the travel content such as a:
     - Map
     - Video
     - Song
@@ -69,17 +69,17 @@ Deployed Application (optional): [Globetrotter Deployed Site](https://s-geleta.g
 - [ ] **Interactive Navigation**
   - [ ] Implement a dropdown menu where at least one menu item includes a nested dropdown menu to access additional categories or sub-pages.
 
-- [ ]**Travel Newsletter Form**
-  - [ ] Create a form to allow users to sign up for a travel newsletter, enhancing user engagement.
-  - [ ] *Note*: You do not have to collect and save the data submitted using the form. 
+- [X]**Travel Newsletter Form**
+  - [X] Create a form to allow users to sign up for a travel newsletter, enhancing user engagement.
+  - [X] *Note*: You do not have to collect and save the data submitted using the form. 
 
-- [ ] **Deployment**
-  - [ ] Deploy your website so it's accessible to the public outside of your local machine. 
-  - [ ] **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS:** For ease of grading, please film yourself using your deployed URL with the URL visible in your video. 
+- [X] **Deployment**
+  - [X] Deploy your website so it's accessible to the public outside of your local machine. 
+  - [X] **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS:** For ease of grading, please film yourself using your deployed URL with the URL visible in your video. 
 
-- [ ] **Custom Styling**: Add a personal touch to your site's design.
-  - [ ] Integrate at least one custom font using Google Fonts to add personality to your site.
-  - [ ] Experiment with at least one CSS property not covered in the lessons or labs to customize your page further.
+- [X] **Custom Styling**: Add a personal touch to your site's design.
+  - [X] Integrate at least one custom font using Google Fonts to add personality to your site.
+  - [X] Experiment with at least one CSS property not covered in the lessons or labs to customize your page further.
 
 ### Walkthrough Video
 
