@@ -25,7 +25,7 @@ Deployed Application (optional): [Globetrotter Deployed Site](https://s-geleta.g
     - E.g. same font, image size, title size, etc. 
   - [X] Content arranged with Flexbox for consistency and responsiveness.
 
-- [ ] **Guide Page (Choose One)**
+- [X] **Guide Page (Choose One)**
   - [X] A separate page that is either a Food Guide, Accommodations Guide, or Upcoming Local Events guide.
   - [X] At least three entries thematic to your choice that provide a:
     - [X] Title
@@ -38,7 +38,7 @@ Deployed Application (optional): [Globetrotter Deployed Site](https://s-geleta.g
       - E.g. same font, title size, etc.
   - [X] Content arranged with Flexbox for consistency and responsiveness. 
 
-- [ ] **Photo Gallery**
+- [X] **Photo Gallery**
   - [X] Separate page with at least five images related to the site's topic.
   - [X] Each image should include a caption describing the image.
   - [X] Presented in a responsive design using Flexbox.
