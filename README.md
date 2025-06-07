@@ -26,7 +26,7 @@ Deployed Application (optional): [Globetrotter Deployed Site](https://s-geleta.g
   - [X] Content arranged with Flexbox for consistency and responsiveness.
 
 - [X] **Guide Page (Choose One)**
-  - [X] A separate page that is either a Food Guide, Accommodations Guide, or Upcoming Local Events guide.
+  - [X] A separate page that is either a Food Guide, Accomodations Guide, or Upcoming Local Events guide.
   - [X] At least three entries thematic to your choice that provide a:
     - [X] Title
     - [X] Address
@@ -69,7 +69,7 @@ Deployed Application (optional): [Globetrotter Deployed Site](https://s-geleta.g
 - [ ] **Interactive Navigation**
   - [ ] Implement a dropdown menu where at least one menu item includes a nested dropdown menu to access additional categories or sub-pages.
 
-- [X]**Travel Newsletter Form**
+- [X] **Travel Newsletter Form**
   - [X] Create a form to allow users to sign up for a travel newsletter, enhancing user engagement.
   - [X] *Note*: You do not have to collect and save the data submitted using the form. 
 
@@ -98,7 +98,7 @@ If I had more time, I would first implement more features to improve the aesthet
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-I feel that during th project demo, what went well was having a product finished enough that I felt comfortable presenting to a group. One thing that I would hope to work on for the next presentation, however, is feeling prepared enough to give a confident and engaging demo ignoring any presentation nerves.
+I feel that during the project demo, what went well was having a product finished enough that I felt comfortable presenting to a group. One thing that I would hope to work on for the next presentation, however, is feeling prepared enough to give a confident and engaging demo ignoring any presentation nerves.
 
 ### Open-source libraries used
 
