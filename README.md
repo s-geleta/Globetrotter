@@ -1,10 +1,10 @@
 ## Unit Assignment: Globetrotter
 
-Submitted by: **NAME**
+Submitted by: **Senaf Geleta**
 
-Estimated time spent: **#** hours spent in total
+Estimated time spent: **12** hours spent in total
 
-Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
+Deployed Application (optional): [Globetrotter Deployed Site](https://s-geleta.github.io/Globetrotter/index.html)
 
 ### Application Features
 
@@ -91,15 +91,15 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+Yes, I think that the lessons we discussed in the labs definitely assisted in helping me feel prepared to complete the project. It gave me a good foundation that I was able to build off of as I continued experimenting and learning more about the lesson topics. A couple features I felt a little less prepared in completing this week were general inheritance and layout techniques that would improve the functionality of the site. 
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+If I had more time, I would first implement more features to improve the aesthetic design of the site. Although I am satisfied with the end project, from a user's perspective, I would have liked to make the site much more engaging and visually appealing. Additionally, I would definitely have added more pages to widen the scope of what the site can do. 
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+I feel that during th project demo, what went well was having a product finished enough that I felt comfortable presenting to a group. One thing that I would hope to work on for the next presentation, however, is feeling prepared enough to give a confident and engaging demo ignoring any presentation nerves.
 
 ### Open-source libraries used
 
@@ -107,4 +107,4 @@ Add your response here
 
 ### Shout out
 
-Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+Big shoutout to all of the instructors for their check-ins, specifically Devarsh and Alex, and helping us as students feel comfortable enough to come to them with any questions. Also a huge thanks the peers who would check-in on the project's progress and wish me luck!
