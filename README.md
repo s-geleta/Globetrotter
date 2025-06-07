@@ -10,7 +10,7 @@ Deployed Application (optional): [Globetrotter Deployed Site](https://s-geleta.g
 
 #### CORE FEATURES
 
-- [ ] **Home Page**
+- [X] **Home Page**
   - [ ] A heading that mentions the destination.
   - [ ] An introductory paragraph that welcomes visitors and dsescribes the purpose of the website. 
   - [ ] An evocative image that represents the location.
