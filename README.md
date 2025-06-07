@@ -83,9 +83,7 @@ Deployed Application (optional): [Globetrotter Deployed Site](https://s-geleta.g
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video actually renders and is playable when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
-
-`ADD_EMBEDDED_CODE_HERE`
+`<iframe width="560" height="315" src="https://www.youtube.com/embed/w51nJpA1ThI?si=WSiCCP-nS60luKKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`
 
 ### Reflection
 
